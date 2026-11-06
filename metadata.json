@@ -1,0 +1,6 @@
+{
+  "name": "Pole Chudes: Futbol Quiz (EQUIPO)",
+  "description": "Football quiz game in Spanish and Armenian with a Wheel of Fortune mechanic to guess the secret word EQUIPO.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
